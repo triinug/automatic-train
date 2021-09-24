@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to VeelYksLeht (that has been created by me)
 
-You can use the [editor on GitHub](https://github.com/triinug/automatic-train/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+After checking out this page, you can go back to where you started (aka [index page](index.md) )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
