@@ -1,3 +1,5 @@
+<script async src="https://api.beta.glia.com/salemove_integration.js"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/triinug/automatic-train/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
