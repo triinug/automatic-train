@@ -11,6 +11,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 I'm trying to add a link to a page that I have added to the repo.
 Here's link: [TestPage](veelyksleht.md)
 
+### Credit Card Options
+
+Below you find the link to all of the credit card offers that we have.
+[Credit Card options](CreditCardOptions.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
