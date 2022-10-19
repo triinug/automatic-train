@@ -2,7 +2,9 @@
 
 ## Title
 
-After checking out this page,<br />
-you can go back to where you started<br />
+After checking out this page,
+
+you can go back to where you started
+
 (aka [index page](index.md) )
 
