@@ -1,11 +1,11 @@
-	<script>
-		//Read idtoken from query parameter with the same name.
-		const params = new Proxy(new URLSearchParams(window.location.search), {
-			get: (searchParams, prop) => searchParams.get(prop),
-		});
-		const idToken = params.idtoken;
-		window.getGliaContext = () => ({ idToken });
-	</script>
+<script>
+//Read idtoken from query parameter with the same name.
+const params = new Proxy(new URLSearchParams(window.location.search), {
+	get: (searchParams, prop) => searchParams.get(prop),
+	});
+	const idToken = params.idtoken;
+	window.getGliaContext = () => ({ idToken });
+</script>
   
 <script async src="https://api.beta.glia.com/salemove_integration.js"></script>
 
