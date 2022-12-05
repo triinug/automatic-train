@@ -1,3 +1,4 @@
+<head>
 <script>
 //Read idtoken from query parameter with the same name.
 const params = new Proxy(new URLSearchParams(window.location.search), {
@@ -8,6 +9,7 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 </script>
   
 <script async src="https://api.beta.glia.com/salemove_integration.js"></script>
+</head>
 
 ## Welcome to GitHub Pages
 
