@@ -1,16 +1,13 @@
+	<script>
+		//Read idtoken from query parameter with the same name.
+		const params = new Proxy(new URLSearchParams(window.location.search), {
+			get: (searchParams, prop) => searchParams.get(prop),
+		});
+		const idToken = params.idtoken;
+		window.getGliaContext = () => ({ idToken });
+	</script>
+  
 <script async src="https://api.beta.glia.com/salemove_integration.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script>
-  var settings = {
-  "url": "https://api.openweathermap.org/data/2.5/weather?appid=d0c7e498499a2f7a44565f209f05d4c6&q=Tallinn&units=metric",
-  "method": "GET",
-  "timeout": 0,
-};
-
-$.ajax(settings).done(function (response) {
-  console.log(response);
-});
-</script>
 
 ## Welcome to GitHub Pages
 
