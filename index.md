@@ -17,7 +17,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum hendr
 Aenean eu justo non mi sagittis iaculis. Etiam ultrices condimentum nunc et dictum. Quisque vitae neque suscipit, feugiat eros quis, tempor ipsum. Suspendisse cursus egestas ultrices. Praesent eu semper diam. Pellentesque accumsan ac lacus eget tempor. Vestibulum ut dignissim ipsum, quis maximus ante. Maecenas consequat nulla quis ipsum pretium accumsan. Phasellus a enim luctus, lacinia magna ut, porta ante.
 
 
-[TestPage](veelyksleht.md) | [Credit Card options](CreditCardOptions.md)
+- [TestPage](veelyksleht.md)
+- [Credit Card options](CreditCardOptions.md)
+
+
 
 <button
   class="omnibrowse-code-button"
